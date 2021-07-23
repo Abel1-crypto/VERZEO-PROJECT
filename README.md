@@ -1,2 +1,2 @@
-# Python
+# ML MINOR PROJECT JUNE-JULY
 
